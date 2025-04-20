@@ -39,4 +39,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=S-DPR)](https://codeforces.com/profile/S-DPR)
 
+### 레포지토리
+푼 문제에 대한 기록을 저장하는 레포지토리입니다.
+
 [관련 레포지토리](https://github.com/S-DPR/DSA/tree/main/PS)
