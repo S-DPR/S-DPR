@@ -38,3 +38,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sdpr)](https://solved.ac/sdpr)
 
 [![CodeForces Profile](https://cf.leed.at?id=S-DPR)](https://codeforces.com/profile/S-DPR)
+
+[관련 레포지토리](https://github.com/S-DPR/DSA/tree/main/PS)
