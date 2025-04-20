@@ -5,6 +5,7 @@
 "백엔드는 어디까지 책임져야 하는가"라는 질문을 항상 고민하며 일합니다.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-DPR&layout=compact&theme=dark)
+> 위 Language 비율은 Problem Solving 레포지토리로 인해 포함된 언어가 많으며, 주 언어는 Java입니다.
 
 ## 💼 Projects
 > 회사 프로젝트의 민감한 부분은 제외하고, 개인 학습 및 설계 경험 위주로 정리했습니다.
