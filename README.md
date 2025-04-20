@@ -42,6 +42,6 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=S-DPR)](https://codeforces.com/profile/S-DPR)
 
-### 📂 알고리즘 리포지토리
+### 📂 알고리즘 레포지토리
 - [DSA 레포지토리](https://github.com/S-DPR/DSA/tree/main/PS)  
   문제별 풀이, 리팩토링 과정, 사용 알고리즘 등을 기록
