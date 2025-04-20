@@ -14,6 +14,11 @@
   - PostGIS 기반 공간 쿼리 처리, 트랜잭션 정합성 설계
   - [샘플 코드 보기](https://github.com/S-DPR/CodeStructure)
  
+- **GraphQL + WebFlux 게시판 API**
+  - Query/Mutation/BatchMapping를 포함한 GraphQL 학습
+  - WebFlux 리액티브 체인을 활용한 흐름 제어
+  - [프로젝트 보기](https://github.com/S-DPR/graphqlFluxBoard)
+ 
 - **교통약자 경로 안내 서비스 - Road Buddy**
   - 엘리베이터 기반 환승과 같은 주요 정보 제공
   - 외부 API 병합 및 약관 검토 경험
