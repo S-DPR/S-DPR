@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-DPR&layout=compact&theme=dark)
 
 ## 💼 Projects
-> 회사에 적용된 코드는 일절 사용되지 않았으며, 개인적으로 생각해보다가 회사에 제출하지 않은 설계만 구현되어있습니다.
+> 회사에 적용된 코드는 일절 사용되지 않았으며, 문제 상황에 대한 개인적 학습 목적의 설계만 일부 구현되어있습니다.
 
 - **위성 영상 메타데이터 관리 시스템**
   - 구조화되지 않은 XML/JSON 파싱 자동화 스크립트 구조 설계 및 개발
