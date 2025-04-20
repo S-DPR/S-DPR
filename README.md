@@ -25,7 +25,7 @@
 ### 🚀 주로 사용한 기술
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ### 🔍 익숙해지는 중
 ![WebFlux](https://img.shields.io/badge/WebFlux-0D7963?style=flat-square)
