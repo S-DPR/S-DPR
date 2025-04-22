@@ -10,7 +10,7 @@
 - **위성 영상 메타데이터 관리 시스템**
   - 구조화되지 않은 XML/JSON 파싱 자동화 스크립트 구조 설계 및 개발
   - PostGIS 기반 공간 쿼리 처리, 트랜잭션 정합성 설계
-  - [샘플 코드 보기](https://github.com/S-DPR/CodeStructure)
+  - [샘플코드 보기](https://github.com/S-DPR/CodeStructure)
  
 - **GraphQL + WebFlux 게시판 API**
   - Query/Mutation/BatchMapping를 포함한 GraphQL 학습
