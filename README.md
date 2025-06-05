@@ -11,6 +11,11 @@
   - 구조화되지 않은 XML/JSON 파싱 자동화 스크립트 구조 설계 및 개발
   - PostGIS 기반 공간 쿼리 처리, 트랜잭션 정합성 설계
   - [샘플코드 보기](https://github.com/S-DPR/CodeStructure)
+
+- **CodingTest 공부시 발생하는 반례를 찾아주는 서비스 - TestForge**
+  - MSA구조 학습, FastAPI, DJango, Gin 사용
+  - gRPC, Docker 등 인프라에 관련된 도구 학습
+  - [프로젝트 보기](https://github.com/S-DPR/TestForge)
  
 - **GraphQL + WebFlux 게시판 API**
   - Query/Mutation/BatchMapping를 포함한 GraphQL 학습
